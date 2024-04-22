@@ -79,7 +79,7 @@ Then, I used SSIS to create Fact table and the dimention packages separately for
   <img src = "https://github.com/karimsheriff/Sales_Data_Mart/blob/main/Snapshots/Date_Dim.png">
 </div>
 
-## Dim_Territory Data
+## Dim_Date Data
 <div>
  <img src = "https://github.com/karimsheriff/Sales_Data_Mart/blob/main/Snapshots/Date_Result.png">
 </div>
